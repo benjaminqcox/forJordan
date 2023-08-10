@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header matches snapshot 1`] = `
+<header
+  className="header"
+>
+  <nav
+    className="navbar navbar-expand-sm"
+  >
+    <a
+      className="navbar-brand"
+      href="https://www.qa.com"
+      rel="noreferrer"
+      target="_blank"
+    >
+      <img
+        alt="QA Ltd"
+        src="qalogo.svg"
+        style={
+          Object {
+            "width": 100,
+          }
+        }
+      />
+    </a>
+    <a
+      className="navbar-brand"
+      href="/"
+    >
+      <p>
+        TodoApp
+      </p>
+    </a>
+  </nav>
+</header>
+`;
